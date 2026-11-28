@@ -1,0 +1,24 @@
+# Fate Sports Group
+
+> Fate Sports Group is a motorsport agency with two sides: driver management (representing professional, factory and emerging racing drivers across hypercar, GT, endurance and single-seater racing) and brand partnerships (connecting brands, series, teams and events with motorsport). Founded by Chris Buncombe (Le Mans 24 Hours LMP2 winner, former professional GT driver) and Struan Moore (former professional racing driver, based in Monaco). Over 50 years of combined experience. Contact: https://www.fatesportsgroup.com/contact.
+
+## Pages
+- [Home](https://www.fatesportsgroup.com/): who Fate is, the two sides of the business, founders, testimonials
+- [Athletes](https://www.fatesportsgroup.com/athletes): the drivers Fate represents
+- [Driver management services](https://www.fatesportsgroup.com/services): career strategy, contract negotiation and protection, team and manufacturer positioning, strategic introductions, commercial and sponsorship advisory, profile and brand management
+- [Brand partnerships](https://www.fatesportsgroup.com/brand-partnerships): commercial and sponsorship advisory, finding the right partner, strategic introductions, deal structure and negotiation, partnerships and activation, profile and brand management. Open to any brand, series, team or event, whether or not a Fate driver is involved
+- [Contact](https://www.fatesportsgroup.com/contact): how to reach Fate about driver management or brand partnerships
+
+## Athletes represented
+- [Charlie Eastwood](https://www.fatesportsgroup.com/athletes/charlie-eastwood): Corvette Factory Driver
+- [Jamie Chadwick](https://www.fatesportsgroup.com/athletes/jamie-chadwick): Genesis Magma Racing, Hypercar Reserve Driver
+- [Jonny Edgar](https://www.fatesportsgroup.com/athletes/jonny-edgar): Corvette Factory Driver
+- [Katsumasa Chiyo](https://www.fatesportsgroup.com/athletes/katsumasa-chiyo): Nissan Nismo Super GT500 Factory Driver
+- [Matias Zagazeta](https://www.fatesportsgroup.com/athletes/matias-zagazeta): GT World Challenge Driver
+- [Ricky Taylor](https://www.fatesportsgroup.com/athletes/ricky-taylor): Cadillac Hypercar, Factory Driver
+- [Sean Gelael](https://www.fatesportsgroup.com/athletes/sean-gelael): World Endurance Championship & GT World Challenge Driver
+- [Tim Tramnitz](https://www.fatesportsgroup.com/athletes/tim-tramnitz): BMW M Motorsport Factory Driver
+- [Zoe Florescu](https://www.fatesportsgroup.com/athletes/zoe-florescu): F1 Academy Driver
+
+## Regions
+Drivers managed across multiple global regions.
